@@ -1,4 +1,4 @@
-📖 About the Project
+# 📖 About the Project
 
 This project analyzes YouTube channels from the UK based on their popularity, subscriber growth,  
 channel category, and engagement metrics.  
