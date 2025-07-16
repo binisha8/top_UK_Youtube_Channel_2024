@@ -10,6 +10,8 @@ The goal is to identify trends in content creation and user preferences in 2024.
 
 ## Tools
 
-Excel 	    Exploring the data
-SQL Server 	Cleaning, testing, and analyzing the data
-Power BI 	  Visualizing the data via interactive dashboards
+| Tool       | Purpose                                         |
+| ---------- | ----------------------------------------------- |
+| Excel      | Exploring the data                              |
+| SQL Server | Cleaning, testing, and analyzing the data       |
+| Power BI   | Visualizing the data via interactive dashboards |
